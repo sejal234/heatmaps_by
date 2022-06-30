@@ -7,5 +7,5 @@
 - Training Programs data by Zipcode (I pulled it from Salesforce)
 
 ### Instructions:
-- On the Data Cleaning python file, upload your data for OY by Zipcode and Training Programs by Zipcode. Save the cleaned files. Specific instructions in code document.
+- On the [Data Cleaning](https://github.com/sejal234/heatmaps_by/blob/main/DataCleaning_BY.ipynb) python file, upload your data for OY by Zipcode and Training Programs by Zipcode. Save the cleaned files. Specific instructions in code document.
 - On the OY_Trainings_Reproducible, input your cleaned datasets and run the code. Specific instructions in code document.
