@@ -14,7 +14,7 @@ Overtime, I plan to upload instructions for all the data visualizations I do at 
 - On the [OY_Trainings_Reproducible](https://github.com/sejal234/heatmaps_by/blob/main/OY_Trainings_Reproducible_Heatmap.ipynb), input your cleaned datasets and run the code. Specific instructions in code document.
 
 ### Data I Used:
-- [Opportunity Youth, American Community Survets, 2020](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/oy_zip_texas.csv). I will note again that the ACS data limits us to those ages 16-19 rather than 16-24.
+- [Opportunity Youth, American Community Surveys, 2020](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/oy_zip_texas.csv). I will note again that the ACS data limits us to those ages 16-19 rather than 16-24.
 - [Training Programs](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/trainings_zips.csv) from MorePathways.Org database on Salesforce
 - [Houston Geoshape JSON](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/Zip_Codes.geojson) from COH GIS
 
