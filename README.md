@@ -1,4 +1,4 @@
-# heatmaps_by
+#Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. Scroll to find instructions for a specific code. 
 
 ## Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
 
@@ -8,4 +8,11 @@
 
 ### Instructions:
 - On the [Data Cleaning](https://github.com/sejal234/heatmaps_by/blob/main/DataCleaning_BY.ipynb) python file, upload your data for OY by Zipcode and Training Programs by Zipcode. Save the cleaned files. Specific instructions in code document.
-- On the OY_Trainings_Reproducible, input your cleaned datasets and run the code. Specific instructions in code document.
+- On the [OY_Trainings_Reproducible](https://github.com/sejal234/heatmaps_by/blob/main/OY_Trainings_Reproducible_Heatmap.ipynb), input your cleaned datasets and run the code. Specific instructions in code document.
+
+### Data I Used:
+[Opportunity Youth, ACS, 2020]('https://raw.githubusercontent.com/sejal234/heatmaps_by/main/oy_zip_texas.csv') - I will note again that the ACS data limits us to those ages 16-19 rather than 16-24.
+[Training Programs]('https://raw.githubusercontent.com/sejal234/heatmaps_by/main/trainings_zips.csv')
+[Houston Geoshape JSON]('https://raw.githubusercontent.com/sejal234/heatmaps_by/main/Zip_Codes.geojson')
+
+    
