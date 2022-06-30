@@ -1,4 +1,4 @@
-#Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. Scroll to find instructions for a specific code. 
+ # Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. Scroll to find instructions for a specific code.
 
 ## Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
 
