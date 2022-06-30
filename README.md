@@ -1,10 +1,10 @@
 # BridgeYear: Visualizing Data through Heatmaps!
 Hello, BridgeYear and community. My goal is to create heatmaps and other data visualizations to understand more about how our training programs offered on [MorePathways.Org](https://www.morepathways.org) serve the Houston community. I do my work in Python!
 
-# Scroll to find instructions for a specific code!
+## Scroll to find instructions for a specific code!
 Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. 
 
-## Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
+# Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
 Look at the map [here!](https://sites.google.com/view/chloropleth/home)
 
 ### What you need:
