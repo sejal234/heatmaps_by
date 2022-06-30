@@ -6,7 +6,7 @@ Overtime, I plan to upload instructions for all the data visualizations I do at 
 ### What you need:
 - OY Data pulled from American Community Surveys (data cleaning code has specific instructions)
 - Training Programs data by Zipcode (I pulled it from Salesforce)
-- JSON File with Zipcode shapes. I pulled it here!(https://raw.githubusercontent.com/sejal234/heatmaps_by/main/Zip_Codes.geojson)
+- JSON File with Zipcode shapes. I pulled it [here!](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/Zip_Codes.geojson)
 - To download the pandas, folium, geopandas, and numpy libraries
 
 ### Instructions:
