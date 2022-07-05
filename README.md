@@ -22,4 +22,9 @@ Look at the map [here!](https://sites.google.com/view/chloropleth/opportunity-yo
 - [Training Programs](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/trainings_zips.csv) from MorePathways.Org database on Salesforce
 - [Houston Geoshape JSON](https://raw.githubusercontent.com/sejal234/heatmaps_by/main/Zip_Codes.geojson) from COH GIS
 
-    
+# Coordinates of Schools BY Serves (CTD Fair Locations) and MorePathways.Org training data:
+Look at the map [here!](https://sites.google.com/view/chloropleth/schools-we-serve)
+
+### What you need:
+- Training Programs data by longitude, latitude (pulled from Salesforce)
+- Schools where BY has hosted a CTD Fair by longitude, latitude (pulled from Salesforce)
