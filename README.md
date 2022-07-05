@@ -3,7 +3,7 @@ Hello, BridgeYear and community. My goal is to create heatmaps and other data vi
 <br>
 Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. So far, I've created 
 - [a heatmap of opportunity youth compared to training program density](https://github.com/sejal234/heatmaps_by#making-a-heatmap-of-opportunity-youth-in-houston-and-morepathwaysorg-training-data)
-- [a map of the schools BY serves compared to training programs locations](https://github.com/sejal234/heatmaps_by/blob/main/README.md#coordinates-of-schools-by-serves-ctd-fair-locations-and-morepathwaysorg-training-data)
+- [a map of the schools BY serves compared to training programs locations](https://github.com/sejal234/heatmaps_by#coordinates-of-schools-by-serves-ctd-fair-locations-and-morepathwaysorg-training-data)
 
 # Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
 Look at the map [here!](https://sites.google.com/view/chloropleth/opportunity-youth)
