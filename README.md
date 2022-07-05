@@ -5,7 +5,7 @@ Hello, BridgeYear and community. My goal is to create heatmaps and other data vi
 Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. 
 
 # Making a heatmap of Opportunity Youth in Houston and MorePathways.Org training data:
-Look at the map [here!](https://sites.google.com/view/chloropleth/home)
+Look at the map [here!](https://sites.google.com/view/chloropleth/opportunity-youth)
 
 ### What you need:
 - OY Data pulled from American Community Surveys (data cleaning code has specific instructions)
