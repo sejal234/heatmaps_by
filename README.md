@@ -33,6 +33,7 @@ Look at the map [here!](https://sites.google.com/view/bytrainings/schools-we-ser
 
 ### Instructions:
 - On the [Reproducible Trainings School Code](https://github.com/sejal234/heatmaps_by/blob/main/Reproducible_Trainings_Schools_Code.ipynb), upload your CSVs with training programs and schools and run the code cell by cell. Specific instructions in code document.
+- [This code](https://github.com/sejal234/heatmaps_by/blob/main/External_Heatmaps.ipynb) is the one I used to make the external report (it's basically the same thing except I include industry when you hover over)
 
 ### Data I Used:
 - [Training Programs](https://github.com/sejal234/heatmaps_by/blob/main/data/trainings_full.csv) from MorePathways.Org database on Salesforce
