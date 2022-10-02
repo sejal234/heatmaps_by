@@ -1,5 +1,6 @@
 # BridgeYear: Visualizing Data through Heatmaps!
 Hello, BridgeYear and community. My goal is to create heatmaps and other data visualizations to understand more about how our training programs offered on [MorePathways.Org](https://www.morepathways.org) serve the Houston community with [an internal audit](https://sites.google.com/view/bytrainings/home). I do my work in Python (you may need to download python 3)! <br>
+Note: [I've also written a blogpost using this material as a marketing piece!](https://sites.google.com/view/bridgeyear/home) 
 <br>
 Overtime, I plan to upload instructions for all the data visualizations I do at BridgeYear. So far, I've created 
 - [a heatmap of opportunity youth compared to training program density](https://github.com/sejal234/heatmaps_by#making-a-heatmap-of-opportunity-youth-in-houston-and-morepathwaysorg-training-data)
